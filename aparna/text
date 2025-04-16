@@ -1,0 +1,14 @@
+Responsibilities:
+Implement emotion classification using ML
+
+Train model on user’s input (facial/voice data)
+
+Save, load, and update personalized models
+
+Tools:
+Weka – classic ML toolkit (SVM, Decision Tree, Naive Bayes)
+
+DL4J (optional) – deep learning with neural nets (if needed)
+
+Custom training dataset builder – built from user input
+

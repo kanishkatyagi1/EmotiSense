@@ -1,0 +1,15 @@
+Responsibilities:
+Capture facial expressions using webcam
+
+Record and extract features from user’s speech
+
+Preprocess image/audio data for ML model
+
+Tools:
+JavaCV (OpenCV for Java) – webcam access, face detection
+
+TarsosDSP – voice pitch, intensity, MFCCs
+
+Java Sound API – raw audio input
+
+ImageUtils.java / AudioUtils.java – helper classes for feature extraction

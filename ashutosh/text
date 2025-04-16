@@ -1,0 +1,13 @@
+Responsibilities:
+Store user profiles, emotion logs, model checkpoints
+
+Load saved model and data at startup
+
+Enable per-user emotion history tracking
+
+Tools:
+SQLite with JDBC – lightweight database
+
+Gson or Jackson – store data as JSON (optional)
+
+Java File I/O – read/write user-specific data
