@@ -1,7 +1,16 @@
 Responsibilities:
 Design and build the JavaFX interface
 
-Implement 
+Implement onboarding screen for user training
+
+Real-time detection interface with live emotion results
+
+Feedback mechanism (“Was this correct?”)
+
+Tools:
+JavaFX
+
+FXML + SceneBuilder
 
 JavaFX Charts (for history visualization)
 
